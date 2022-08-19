@@ -34,5 +34,5 @@ const a = new Pipe(null, [122, 12])
 
 (async () => {
   console.log(await a.pipeFunc()(1, 2));
-  console.log("just some test");
+  console.log("test webhook");
 })();
