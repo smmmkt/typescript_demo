@@ -3,7 +3,6 @@ author: eliseovo
 ---
 
 ## Typescript Demo
-==================
 
 ### This is just a meaningless README.md
 
